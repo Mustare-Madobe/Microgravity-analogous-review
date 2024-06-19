@@ -1,0 +1,10 @@
+
+# Existing configuration (if any)
+
+tasks:
+  - name: Install dependencies
+    command: |
+      sudo apt update
+      sudo apt install r-base # Replace with your preferred R package manager
+
+# Rest of your configuration
