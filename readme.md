@@ -10,9 +10,11 @@ query = "('2D clinostat' or 'clinostat' or 'Clinostat')"
 query = "('slow fall rotating vessel' or 'slow wall rotating vessel' or 'rotating wall vessel')"
 
 This can be done through the NCBI webpage like this
+
 https://pubmed.ncbi.nlm.nih.gov/?term=%27RPM%27+or+%27random+positioning+machine%27&page=1
 
 We then compiled more information about the PMID, title, abstract, authors, keywords, publication year, journal title and publication type. 
+See the ipython notebook to test for yourself. 
 
 Preliminary analysis from Rtutor.ai (Thanks Prof Ge)
 ![DRB 3D clinostat methods review](https://github.com/dr-richard-barker/Microgravity_analogue_review/assets/8679982/46697904-b4c4-4395-97f0-d2f3731cc182)
