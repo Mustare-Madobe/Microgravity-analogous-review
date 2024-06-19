@@ -1,4 +1,5 @@
-Hello! 
+Hello World! 
+
 Welcome to the attempt at mining NCBI for microgravity analoges. 
 Here are the results and the ipython note book that was used to mine the literature for papers related to microgravity analogues. 
 This included a search for RPM, 2D clinostat, slow rotating wall vessels. 
@@ -21,4 +22,7 @@ Preliminary analysis from Rtutor.ai (Thanks Prof Ge)
 
 
 My big question is how many false positives are in this dataset? 
-Can you find a clever way to analyse these **17411** papers (Titles, abstracts, journals) to identify which are truly microgravity analogue  
+
+Can you find a clever way to analyse these **17411** papers (Titles, abstracts, journals) to identify which are truly microgravity analogue experiemnts and remove the false positives from this dataset?  
+
+Good Luck
