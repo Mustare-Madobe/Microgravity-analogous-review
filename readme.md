@@ -1,6 +1,13 @@
 Hello World! 
 
 Welcome to the attempt at mining NCBI for microgravity analoges. 
+There are so many open-source microgravity analogue platform now available i thought it was time for a review of the literature. 
+
+Below is a great example from NASA-funded Space Biology researcher Prof Karl Hasestein. 
+![examplw figure from KArl](https://github.com/dr-richard-barker/Microgravity_analogue_review/assets/8679982/8d3621a1-1fed-40f6-8b52-65d640ba5d97)
+
+But where do RPM's fit into the broader and older microgravity analogue ecosystem? 
+
 Here are the results and the ipython note book that was used to mine the literature for papers related to microgravity analogues. 
 This included a search for RPM, 2D clinostat, slow rotating wall vessels. 
 
@@ -10,7 +17,7 @@ query = "('RPM' or 'random positioning machine' or 'Random Positioning Machine')
 query = "('2D clinostat' or 'clinostat' or 'Clinostat')" 
 query = "('slow fall rotating vessel' or 'slow wall rotating vessel' or 'rotating wall vessel')"
 
-This can be done through the NCBI webpage like this
+This can be done through the NCBI webpage like this (not you can change the "RPM" ,or "random+positioning+machine" in the URL to search for other concepts).
 
 https://pubmed.ncbi.nlm.nih.gov/?term=%27RPM%27+or+%27random+positioning+machine%27&page=1
 
