@@ -4,7 +4,9 @@
 
 Welcome to the attempt at mining NCBI for microgravity analoges. There are so many open-source microgravity analogue platform now available I thought it was time for a review of the literature.
 
-Below is a great example from NASA-funded Space Biology researcher Prof Karl Hasestein. ![example figure from Karl](https://github.com/dr-richard-barker/Microgravity\_analogue\_review/assets/8679982/8d3621a1-1fed-40f6-8b52-65d640ba5d97)
+Below is a great example from NASA-funded Space Biology researcher Prof Karl Hasestein.&#x20;
+
+<figure><img src="https://github.com/dr-richard-barker/Microgravity_analogue_review/assets/8679982/8d3621a1-1fed-40f6-8b52-65d640ba5d97" alt="" width="563"><figcaption></figcaption></figure>
 
 But where do RPM's fit into the broader and older microgravity analogue ecosystem?
 
