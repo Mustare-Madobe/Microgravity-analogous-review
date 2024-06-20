@@ -1,7 +1,7 @@
 ---
 description: >-
   Goal: To create a literature review on microgravity analogues for the American
-  Society of Gravitatinoal and Space Research (ASGSR) conference
+  Society of Gravitational and Space Research (ASGSR) conference
   poster/presentation &/or jounrel publication.
 ---
 
