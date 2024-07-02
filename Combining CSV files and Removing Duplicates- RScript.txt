@@ -1,0 +1,30 @@
+### Combining CSV files and Removing Duplicates
+# Load necessary library
+library(dplyr)
+
+# Set the directory containing the CSV files
+csv_dir <- "C:/Users/user/Desktop/microgravity"
+
+# Check if the directory exists
+if (!dir.exists(csv_dir)) {stop("The specified directory does not exist.")
+}
+
+# List all CSV files in the directory
+csv_files <- list.files(csv_dir, pattern = "\\.csv$", full.names = TRUE)
+
+# Check if there are any CSV files in the directory
+if (length(csv_files) == 0) {stop("No CSV files found in the specified directory.")
+}
+
+# Function to read a CSV file and handle potential errors
+read_csv_file <- function(file) {
+  tryCatch(
+    {
+      read.csv(file, stringsAsFactors = FALSE)
+    },
+    error = function(e) {
+      message(paste("Error reading file:", file))
+      return(NULL)
+    }
+  )
+}
